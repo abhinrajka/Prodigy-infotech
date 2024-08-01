@@ -9,7 +9,7 @@ User Interface: Simple command-line interface for encryption, decryption, or qui
 How to Use
 
 Clone the Repository:
-git clone https://github.com/your-username/caesar-cipher.git
+git clone https://github.com/abhinrajka/caesar-cipher.git
 cd caesar-cipher
 
 Run the Program:
