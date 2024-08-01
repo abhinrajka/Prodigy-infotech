@@ -20,11 +20,13 @@ python caesar_cipher.py
 Follow the Prompts:
 
 Choose to (e)ncrypt, (d)ecrypt, or (q)uit.
+
 Enter your message.
 Enter the shift value.
 
-o you want to (e)ncrypt or (d)ecrypt or (q)uit? e
-Enter your message: Hello, World!
+Do you want to (e)ncrypt or (d)ecrypt or (q)uit?
+
+Enter your message: Hello, World!e
 Enter shift value: 3
 Encrypted message: Khoor, Zruog!
 
