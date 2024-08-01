@@ -10,9 +10,11 @@ How to Use
 
 Clone the Repository:
 git clone https://github.com/abhinrajka/caesar-cipher.git
+
 cd caesar-cipher
 
 Run the Program:
+
 python caesar_cipher.py
 
 Follow the Prompts:
